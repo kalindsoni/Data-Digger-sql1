@@ -136,14 +136,6 @@ This project demonstrates the following SQL concepts:
 
 ## 🚀 How To Run This Project
 
-### Step 1: Install MySQL
-
-Download and install:
-
-[MySQL Community Server](https://dev.mysql.com/downloads/mysql/)
-
-[MySQL Workbench](https://dev.mysql.com/downloads/workbench/)
-
 ### Step 2: Open MySQL Workbench
 
 Connect to your MySQL server and open a new SQL query tab.
@@ -218,6 +210,7 @@ LIMIT 3;
 ```
 
 ## 🎥 Video Explanation
+(https://drive.google.com/file/d/1N6zUGACqKWGnbB7OB2NPvZmejc2lR8pj/view?usp=drivesdk)
 
 Watch the complete project explanation and SQL implementation here:
 
@@ -258,11 +251,3 @@ By completing this project, I practiced:
 MySQL Database Management Project
 
 📍 Rajkot, Gujarat, India
-
----
-
-<p align="center">
-  <b>⭐ If you like this project, give it a star on GitHub!</b>
-  <br><br>
-  Made with ❤️ using MySQL
-</p>
